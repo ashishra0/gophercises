@@ -3,4 +3,4 @@ Gophercises
 Set of exercises intended to teach something new about go everyday ✨
 ---
 
-[quiz](https://github.com/ashishra0/gophercises/quiz)
+[CLI quiz app ](https://github.com/ashishra0/gophercises/tree/master/quiz)
