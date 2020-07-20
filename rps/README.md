@@ -1,5 +1,6 @@
 <h2>Rock paper scissors </h2>
---
+---
+
 A CLI Rock paper scissors game. 
 
 Usage:
