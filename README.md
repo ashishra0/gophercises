@@ -4,6 +4,8 @@ Gophercises
 
 ---
 
-[CLI quiz app ](https://github.com/ashishra0/gophercises/tree/master/quiz)
+[CLI quiz game](https://github.com/ashishra0/gophercises/tree/master/quiz)
 
 [CLI todo app](https://github.com/ashishra0/gophercises/tree/master/task)
+
+[CLI RPS game](https://github.com/ashishra0/gophercises/tree/master/rps)
